@@ -1,6 +1,6 @@
 # 💻 My Coding Journey
 
-Hi, I'm Himanshi! 👋
+Hi, I'm Himanshi Mittal! 👋
 Welcome to my coding journey.
 
 This repo is my personal diary where I save everything I learn in coding.
